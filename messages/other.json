@@ -1,1 +1,52 @@
-
+{
+"flags": 32768,
+"components": [
+{
+"type": 17,
+"components": [
+{
+"type": 10,
+"content": "## SUPPORT TICKET\n**Hey (wzmianka użytkownika który otworzył to zgłoszenie), please explain your issue and wait for the <@&1544505327985364992> <:star:1543612128114769930> **"
+},
+{
+"type": 1,
+"components": [
+{
+"style": 3,
+"type": 2,
+"label": "MARK AS DONE",
+"flow": {
+"actions": []
+},
+"custom_id": "done"
+},
+{
+"style": 2,
+"type": 2,
+"label": "RENAME",
+"flow": {
+"actions": []
+},
+"custom_id": "p_342166043143180299"
+},
+{
+"style": 4,
+"type": 2,
+"flow": {
+"actions": []
+},
+"custom_id": "close",
+"emoji": {
+"id": "1543612412488454144",
+"name": "90616bin",
+"animated": false
+},
+"label": "CLOSE"
+}
+]
+}
+],
+"accent_color": 15105570
+}
+]
+}

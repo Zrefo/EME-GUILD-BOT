@@ -1,0 +1,50 @@
+{
+  "flags": 32768,
+  "components": [
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 10,
+          "content": "## ALLIANCE REQUEST\n<:star:1543612128114769930> **Guild name**\n- **`(nazwa gildi)`**\n<:discord:1543612446751727747> **Submitted by**\n- (wzmianka użytkownika który złożył tą prośbę)\n"
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "style": 2,
+              "type": 2,
+              "emoji": {
+                "id": "1543612207990833253",
+                "name": "yes",
+                "animated": false
+              },
+              "flow": {
+                "actions": []
+              },
+              "custom_id": "p_342168692009734152"
+            },
+            {
+              "style": 2,
+              "type": 2,
+              "emoji": {
+                "id": "1543612318305226773",
+                "name": "no",
+                "animated": false
+              },
+              "flow": {
+                "actions": []
+              },
+              "custom_id": "p_342168695981740041"
+            }
+          ]
+        },
+        {
+          "type": 10,
+          "content": "-# <@&1544505327985364992>"
+        }
+      ],
+      "accent_color": 15277667
+    }
+  ]
+}

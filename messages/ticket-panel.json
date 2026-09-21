@@ -1,0 +1,164 @@
+{
+  "flags": 32768,
+  "components": [
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 9,
+          "components": [
+            {
+              "type": 10,
+              "content": "## EME - Support\n**You can open a support ticket here.**"
+            }
+          ],
+          "accessory": {
+            "type": 11,
+            "media": {
+              "url": "https://cdn.discordapp.com/attachments/1543692436600135781/1544227682596692058/Adobe_Express_-_file_1.png?ex=6a986659&is=6a9714d9&hm=45af5ae0c5965c1ca032d56dfbabd92f84913e90e5086a160de81c9df7593a6c&"
+            },
+            "description": "EME Guild logo",
+            "spoiler": false
+          }
+        },
+        {
+          "type": 14
+        },
+        {
+          "type": 10,
+          "content": "<:question:1543612105859670136> **Be patient**\n- We ask for your patience, as we aren't always able to respond immediately. There may be others ahead of you in the queue, meaning we are currently assisting other users."
+        },
+        {
+          "type": 10,
+          "content": "<:gold_nugget:1544521653780750416> **Do not ping staff**\n- Please do not ping the staff; our system notifies them automatically as soon as you open a ticket."
+        },
+        {
+          "type": 10,
+          "content": "<:HylexMC:1544517934167228507> **HylexMC Support**\n- We do not handle issues related to the HylexMC server here. If you need assistance from HylexMC staff, please go to their Discord server and open a ticket there."
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "HYLEXMC SUPPORT SERVER",
+              "emoji": {
+                "id": "1544517934167228507",
+                "name": "HylexMC",
+                "animated": false
+              },
+              "url": "https://discord.gg/ES4kWXJwmj"
+            }
+          ]
+        }
+      ],
+      "spoiler": false,
+      "accent_color": 15277667
+    },
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 9,
+          "components": [
+            {
+              "type": 10,
+              "content": "<:EME_GUILD:1544405447619121172> **Join the EME guild**\nYou can create a ticket to join the EME guild.\n`Before opening a ticket, make sure you meet the requirements listed on our website.`"
+            }
+          ],
+          "accessory": {
+            "type": 2,
+            "style": 5,
+            "label": "EME WEBSITE",
+            "emoji": {
+              "id": "1543612161232736378",
+              "name": "earth",
+              "animated": false
+            },
+            "url": "https://eme-guild.xyz/"
+          }
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "style": 2,
+              "type": 2,
+              "label": "JOIN EME",
+              "emoji": {
+                "id": "1544405447619121172",
+                "name": "EME_GUILD",
+                "animated": false
+              },
+              "flow": {
+                "actions": []
+              },
+              "custom_id": "eme"
+            }
+          ]
+        }
+      ],
+      "accent_color": 3066993,
+      "spoiler": false
+    },
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 10,
+          "content": "<:star:1543612128114769930> **Alliance with the EME guild**\nYou can submit a request for an alliance with our guild here, but remember, your guild must have at least 5 members!\n\n"
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "style": 2,
+              "type": 2,
+              "label": "ALLIANCE REQUEST",
+              "emoji": {
+                "id": "1543612128114769930",
+                "name": "star",
+                "animated": false
+              },
+              "flow": {
+                "actions": []
+              },
+              "custom_id": "ally"
+            }
+          ]
+        }
+      ],
+      "accent_color": 15158332
+    },
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 9,
+          "components": [
+            {
+              "type": 10,
+              "content": "<:warning:1543612026822205491> **Other**\nReport a bug, report an EME guild member, report an ally, etc."
+            }
+          ],
+          "accessory": {
+            "style": 2,
+            "type": 2,
+            "label": "MAKE A TICKET",
+            "emoji": {
+              "id": "1543612026822205491",
+              "name": "warning",
+              "animated": false
+            },
+            "flow": {
+              "actions": []
+            },
+            "custom_id": "other"
+          }
+        }
+      ],
+      "accent_color": 15844367
+    }
+  ]
+}

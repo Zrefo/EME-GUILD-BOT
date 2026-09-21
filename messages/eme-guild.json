@@ -1,0 +1,79 @@
+{
+  "flags": 32768,
+  "components": [
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 9,
+          "components": [
+            {
+              "type": 10,
+              "content": "## <:EME_GUILD:1544405447619121172> GUILD JOIN REQUEST\n\n**Hey {user}, We are glad you want to join the EME guild!** <:star:1543612128114769930>\n**Please wait for the EME Guild staff <:thumbs:1543612494512398417>**"
+            }
+          ],
+          "accessory": {
+            "type": 11,
+            "media": {
+              "url": "https://mc-heads.net/avatar/"
+            },
+            "description": "Player avatar"
+          }
+        },
+        {
+          "type": 10,
+          "content": "<:gamepad:1543612182246199363> **In-game name**\n- **`name`**\n<:discord:1543612446751727747> **Discord**\n- @zrefo_\n<:gold_nugget:1544521653780750416> **Staff ping role**\n- <@&1544505327985364992>"
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "style": 3,
+              "type": 2,
+              "label": "MARK AS DONE",
+              "emoji": {
+                "id": "1543612128114769930",
+                "name": "star",
+                "animated": false
+              },
+              "flow": {
+                "actions": []
+              },
+              "custom_id": "done"
+            },
+            {
+              "style": 2,
+              "type": 2,
+              "flow": {
+                "actions": []
+              },
+              "custom_id": "p_342166043143180299",
+              "emoji": {
+                "id": "1544521653780750416",
+                "name": "gold_nugget",
+                "animated": false
+              },
+              "label": "RENAME"
+            },
+            {
+              "style": 4,
+              "type": 2,
+              "flow": {
+                "actions": []
+              },
+              "custom_id": "close",
+              "emoji": {
+                "id": "1543612412488454144",
+                "name": "90616bin",
+                "animated": false
+              },
+              "label": "CLOSE"
+            }
+          ]
+        }
+      ],
+      "spoiler": false,
+      "accent_color": 3066993
+    }
+  ]
+}
